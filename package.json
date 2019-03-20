@@ -1,0 +1,23 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "tic tac toe game",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbanks94/TicTacToe.git"
+  },
+  "author": "Michael Banks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mbanks94/TicTacToe/issues"
+  },
+  "homepage": "https://github.com/mbanks94/TicTacToe#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
